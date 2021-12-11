@@ -1,32 +1,33 @@
 {
-    "name": "functional-contrast",
-    "displayName": "functional contrast",
-    "description": "prettier theme for functional programming imo",
-    "version": "0.0.3",
-    "publisher": "joshumcode",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/JoshTRN/functional-contrast"
-    },
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "theme",
-        "dark theme",
-        "functional contrast",
-        "joshumcode"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Functional Contrast",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Functional Contrast-color-theme.json"
-            }
-        ]
-    }
+  "name": "functional-contrast",
+  "displayName": "functional contrast",
+  "description": "prettier theme for functional programming imo",
+  "version": "0.0.3",
+  "publisher": "joshumcode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshTRN/functional-contrast"
+  },
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "functional contrast",
+    "joshumcode"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Functional Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Functional Contrast-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
 }
