@@ -9,7 +9,7 @@
       "url": "https://github.com/JoshTRN/functional-contrast"
     },
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.5.0"
     },
     "categories": [
         "Themes"
