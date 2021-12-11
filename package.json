@@ -3,11 +3,22 @@
     "displayName": "functional contrast",
     "description": "prettier theme for functional programming imo",
     "version": "0.0.1",
+    "publisher": "joshumcode",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/JoshTRN/functional-contrast"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+      "theme",
+      "dark theme",
+      "functional contrast",
+      "joshumcode"
     ],
     "contributes": {
         "themes": [
