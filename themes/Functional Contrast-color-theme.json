@@ -710,5 +710,22 @@
         "fontStyle": "bold"
       }
     },
+    // Elm
+    {
+      "scope": [
+        "constant.type-constructor.elm"
+      ],
+      "settings": {
+        "foreground": "#b267e6",
+      }
+    },
+    {
+      "scope": [
+        "entity.name.record.field.elm"
+      ],
+      "settings": {
+        "foreground": "#00a999",
+      }
+    },
   ]
 }
