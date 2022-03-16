@@ -26,6 +26,11 @@
         "label": "Functional Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/Functional Contrast-color-theme.json"
+      },
+      {
+        "label": "Functional Contrast Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Functional Contrast Midnight-color-theme.json"
       }
     ]
   },
