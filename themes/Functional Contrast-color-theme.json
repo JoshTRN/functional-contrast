@@ -8,8 +8,8 @@
     "activityBarBadge.background": "#f39",
     "activityBarBadge.foreground": "#fff",
     // Git diffs
-    "diffEditor.insertedTextBackground": "#05786797",
-    "diffEditor.removedTextBackground": "#b12350dd",
+    "diffEditor.insertedTextBackground": "#05786742",
+    "diffEditor.removedTextBackground": "#b123507c",
     "editor.background": "#000000",
     "editor.findMatchBackground": "#7929ae",
     "editor.findMatchHighlightBackground": "#302a4e",
