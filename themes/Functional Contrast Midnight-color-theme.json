@@ -400,6 +400,7 @@
         "foreground": "#B267E6"
       }
     },
+
     // Javascript
     {
       "scope": "storage.type.js",
@@ -429,6 +430,7 @@
         "fontStyle": ""
       }
     },
+
     // Generated JSON - START
     {
       "name": "JSON Key - Level 0",
@@ -897,6 +899,90 @@
     {
       "scope": [
         "meta.object-literal.key.js"
+      ],
+      "settings": {
+        "foreground": "#607d8b"
+      }
+    },
+
+    // Typescript && tsx
+    {
+      "scope": [
+        "variable.other.constant.ts"
+      ],
+      "settings": {
+        "foreground": "#cdd581",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.object.ts"
+      ],
+      "settings": {
+        "foreground": "#7b3cf3"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.readwrite.ts"
+      ],
+      "settings": {
+        "foreground": "#6ae4df"
+      }
+    },
+    {
+      "scope": [
+        "meta.object-literal.key.ts"
+      ],
+      "settings": {
+        "foreground": "#607d8b"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property.ts"
+      ],
+      "settings": {
+        "foreground": "#607d8b"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.constant.tsx"
+      ],
+      "settings": {
+        "foreground": "#cdd581",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.object.tsx"
+      ],
+      "settings": {
+        "foreground": "#7b3cf3"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.readwrite.tsx"
+      ],
+      "settings": {
+        "foreground": "#6ae4df"
+      }
+    },
+    {
+      "scope": [
+        "meta.object-literal.key.tsx"
+      ],
+      "settings": {
+        "foreground": "#607d8b"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property.tsx"
       ],
       "settings": {
         "foreground": "#607d8b"
