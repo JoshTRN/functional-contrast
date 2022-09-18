@@ -48,3 +48,13 @@
   </cite>
   </figcaption>
 </figure>
+
+## <cite>Functional Contrast Dark Ember</cite>
+<figure>
+  <img src="images/fc-dark-ember.png"/>
+<figcaption align ="right">
+  <cite>
+    Original
+  </cite>
+  </figcaption>
+</figure>
