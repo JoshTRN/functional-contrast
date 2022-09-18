@@ -36,6 +36,11 @@
         "label": "Functional Contrast Forest Night",
         "uiTheme": "vs-dark",
         "path": "./themes/Functional Contrast Forest Night-color-theme.json"
+      },
+      {
+        "label": "Functional Contrast Dark Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Functional Contrast Dark Ember-color-theme.json"
       }
     ]
   },
