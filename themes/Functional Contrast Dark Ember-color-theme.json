@@ -46,7 +46,7 @@
 
         "editorBracketMatch.background" : "#684399",
 
-        "editorCursor.foreground" : "#691515",
+        "editorCursor.foreground" : "#f55b5b",
 
         "editorGroup.border"               : "#7c3636",
         "editorGroup.dropBackground"       : "#7c3636",
@@ -151,7 +151,7 @@
         "tab.inactiveBackground" : "#380202",
 
         "titleBar.activeBackground" : "#471f1f",
-        "titleBar.inactiveBackground": "#ff0000",
+        "titleBar.inactiveBackground": "#300000",
 
         "textLink.foreground"       : "#af2c2c",
         "textLink.activeForeground" : "#cf0c0c",
